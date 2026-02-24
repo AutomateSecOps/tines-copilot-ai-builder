@@ -1,2 +1,3 @@
 # tines-copilot-ai-builder
-Tines new AI Workflow builder
+Tines New AI Workflow Builder - Story Copilt
+

@@ -25,3 +25,8 @@ I tested the Tines Page by submitting a text file with IOCs.
 
 The workflow did categorize them correctly:
 
+<img src="./images/event_ioc.png">
+
+Give Tines Story Copilot a try since it does not cost any AI credits until April 16th.
+
+Happy Building! or more like happy typing...

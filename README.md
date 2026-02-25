@@ -7,15 +7,15 @@ Story Copilot operates in two modes, Ask, which is used for answering questions 
 
 In under 10 minutes, using three prompts, I had a fully functional Tines Page webform where a security analyst can upload a csv of IOCs and have them automatically categorized by the workflow. That kind of turnaround would have taken significantly longer to build manually.
 
-Prompt 1:
+**Prompt 1**:
 
 <img src="./images/prompt-1.png">
 
-Prompt 2:
+**Prompt 2**:
 
 <img src="./images/prompt-2.png">
 
-Prompt 3: 
+**Prompt 3**: 
 
 <img src="./images/prompt-3.png">
 
